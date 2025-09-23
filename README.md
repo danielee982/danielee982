@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Daniel Lee</h1>
-<h3 align="center">AI/ML Software Engineer | Incoming MSCS @ Temple University</h3>
+<h3 align="center">AI/ML Software Engineer | MSCS @ Temple University</h3>
 
 ---
 
 **About Me**
 
-- 🔭 I’m currently working on [LLM Crypto Agent](https://github.com/danielee982/llm-crypto-agent)
+- 🔭 I’m currently working on [Personal Finance Service].
 - 🌱 I’m currently learning **Pytorch and NLP**
-- 💬 Ask me about **MLOps**
 - 📫 How to reach me: **danielee982@gmail.com**
 - ⚡ Fun fact: **I love playing chess.**
 
@@ -23,8 +22,8 @@
   Full-stack email helper app with React, Flask, and Perplexity LLM  
   [Repository](https://github.com/seungwoo900/email-helper)
 
-- 🤖 **LLM Crypto Agent:**  
-  Exploring the use of LLMs in cryptocurrency trading and automation  
+- 🚐 **Campingcar Booking System:** 
+  Admin GUIs in Java Swing with MySQL (JDBC), featuring tabbed views, dialogs, search filters, and DAO refactoring. 
   [Repository](https://github.com/danielee982/llm-crypto-agent)
 
 ---
