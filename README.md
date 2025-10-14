@@ -5,8 +5,8 @@
 
 **About Me**
 
-- 🔭 I’m currently working on [Personal Finance Service].
-- 🌱 I’m currently learning **Pytorch and NLP**
+- 🔭 I’m currently working on Temple HCI Website.
+- 🌱 I’m currently learning **Graph Database and Web Frontend**
 - 📫 How to reach me: **danielee982@gmail.com**
 - ⚡ Fun fact: **I love playing chess.**
 
