@@ -6,7 +6,7 @@
 **About Me**
 
 - 💡 I enjoy building end-to-end data systems from raw data ingestion to models and APIs. I'm especially interested in contributing to healthcare field with my data science background.
-- 🔭 I’m currently working on Predictive Modeling for Protein-Protein Interaction.
+- 🔭 I’m currently working on **Predictive Modeling for Protein-Protein Interaction**.
 - 🌱 I’m currently learning **Predictive Modeling and Data Mining**
 - 📫 How to reach me: **[daniel.lee.data@gmail.com](mailto:daniel.lee.data@gmail.com)** or **[linkedin.com/in/daniel-lee-1362722a7](https://www.linkedin.com/in/daniel-lee-1362722a7/)**
 - ⚡ Fun fact: **I love playing chess.**
@@ -14,13 +14,13 @@
 ---
 
 **Featured Projects**
-- **NCAA Baseball Knowledge Graph:**  
-  End-to-end data engineering project building a Neo4j knowledge graph (~2k nodes, ~4k relationships) using a Python-based ETL pipeline.
-  [Repository](https://github.com/danielee982/diamond-knowledge-graph)
+- **NCAA Baseball Knowledge Graph**  
+End-to-end data engineering project building a Neo4j knowledge graph (~2k nodes, ~4k relationships) using a Python-based ETL pipeline.  
+🔗 [Repository](https://github.com/danielee982/diamond-knowledge-graph)
 
-- **Pill Image Recognition Platform:**  
-  End-to-end computer vision and retrieval pipeline for drug identification, using self-supervised vision models (DINO), FAISS similarity search, and FastAPI.
-  [Repository](https://github.com/0x05-hex-five/AI)
+- **Pill Image Recognition Platform**  
+End-to-end computer vision and retrieval pipeline for drug identification using self-supervised vision models (DINO), FAISS similarity search, and FastAPI.  
+🔗 [Repository](https://github.com/0x05-hex-five/AI)
 
 ---
 
